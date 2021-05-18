@@ -16,4 +16,5 @@ Here I wanted to state a few points on the investment thesis I will addere to in
 > Be fearful when others are greedy and be greedy when others are fearful.
 
 
-![grossmargins.png]({{site.baseurl}}/_posts/grossmargins.png)
+![Image description](/images/SAEP9.png)
+
