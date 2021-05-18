@@ -3,7 +3,7 @@ layout: post
 title: Investment Strategy
 published: true
 ---
-Hello everyone!
+##Hello everyone!
 
 Here I wanted to state a few points on the investment thesis I will addere to in the project:
 
@@ -11,4 +11,12 @@ Here I wanted to state a few points on the investment thesis I will addere to in
 - That have long term runways
 - Where I have a rough aproximation of its future Cash Flows
 - That are trading at least at half of those Cash Flows discounted to today
+
+> Be fearful when others are greedy and be greedy when others are fearful.
+
+![EP9 33.png]({{site.baseurl}}/_posts/EP9 33.png)
+
+
+
+
 
